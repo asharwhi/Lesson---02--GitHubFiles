@@ -285,3 +285,16 @@ Release Date: 2016-07-19
 [  1473.215] rdpkeybChangeKeyboardControl: autoRepeat off
 [  1473.215] rdpkeybChangeKeyboardControl:
 [  1473.215] rdpkeybChangeKeyboardControl: autoRepeat off
+[  2433.101] rdpkeybChangeKeyboardControl:
+[  2433.101] rdpkeybChangeKeyboardControl: autoRepeat on
+[  2433.102] rdpkeybChangeKeyboardControl:
+[  2433.102] rdpkeybChangeKeyboardControl: autoRepeat off
+[  2433.201] rdpInDeferredUpdateCallback:
+[  2433.201] rdpkeybChangeKeyboardControl:
+[  2433.201] rdpkeybChangeKeyboardControl: autoRepeat off
+[  2433.201] rdpkeybChangeKeyboardControl:
+[  2433.201] rdpkeybChangeKeyboardControl: autoRepeat off
+[  2435.756] rdpkeybChangeKeyboardControl:
+[  2435.757] rdpkeybChangeKeyboardControl: autoRepeat off
+[  2435.757] rdpkeybChangeKeyboardControl:
+[  2435.757] rdpkeybChangeKeyboardControl: autoRepeat off

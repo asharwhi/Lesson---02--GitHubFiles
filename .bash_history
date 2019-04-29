@@ -66,3 +66,16 @@ eval "(ssh-agent - s)" > Agent pid 59566
 eval "(ssh-agent - s)" > Agent
 eval "(ssh-agent - s)" > Agent 
 git remote add origin git@github.com:asharwhi/Lesson---02--GitHubFiles.git
+clear
+ssh-keygen -t rsa -b 4096 -C "asharwhi@yahoo.com"
+cat ~/ssh/id_rsa.pub
+cat /home/ubuntu/.ssh/id_rsa.pub
+ssh-add
+git init
+git add .
+git commit . -m "i am pushing all my files to my GitHub"
+git status
+git add
+git add .
+git commit . -m "I am pushing all the files to my GitHub"
+git config --global --edit
